@@ -19,4 +19,6 @@ cout<<"161106";
 
 int main () {
 	//TODO
+printMyName();
+printMyIndex();
 }
